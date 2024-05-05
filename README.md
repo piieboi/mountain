@@ -27,12 +27,12 @@ M3|1GB|3GB|Ventura (2022)
 
 *The Table displays the "POTATO" configuration*
 
--------------------------
+---
 ```v
-_____ _     ____     _ 
+solo.to/
+ ____ _     ____     _ 
 | _  |_|___| _  |___|_|
 |  __| | -_| _ -| . | |
 |_|  |_|___|____|___|_|
-"This is fun, This is
-  fun to me, woah woah"
+MMXXIV Project Mountain
 ```
