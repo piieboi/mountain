@@ -24,6 +24,8 @@ M1|1GB|3GB|Big Sur (2020)
 M2|1GB|3GB|Monterey (2021)
 M3|1GB|3GB|Ventura (2022)
 
+**ANY OF THESE CONFIGURATIONS WORK**
+
 
 *The Table displays the "POTATO" configuration*
 
