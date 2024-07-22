@@ -11,6 +11,7 @@ Mid: Apple M2 | 1GB | iGPU: Apple M2 | Metal 3 | 3GB | MC-9134pts / FPS-119 | Ma
 Low: Core i3-3210 | 1GB | iGPU: HD 4000 | v4.4 | 3GB | MC-1004pts / FPS-48.5 | Windows 10 22H2
 Low: A8-7600 | 1GB | iGPU: Radeon R7 | v4.4 | 3GB | MC-1170pts / FPS-47.5 | Windows 10 22H2
 
+**Please use the Apple M2 Entry as a reference for a mid-range machine and not as a minimum spec.**  
 *The Table displays the "POTATO" configuration for 1.8.9*  
 *Scores are calculated using Multi-Core performance and Minecraft FPS, we're not animals here.*
 *Minecraft FPS calculated as 1 hour of playtime @ 4 Chunks / 6 Simulation on Hypixel Bedwars*
